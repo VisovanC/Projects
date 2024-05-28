@@ -1,5 +1,5 @@
 # Projects
-Here you will find all the projects I have worked on since starting university
+Here you will find all the projects I have worked on since starting university.
 <ul>
   <li>C/C++ Projects</li>
   <ul>
